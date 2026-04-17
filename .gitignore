@@ -1,7 +1,13 @@
 __pycache__/
+**/__pycache__/
 *.pyc
+**/*.pyc
 .env
 .env.*
+**/.env
+**/.env.*
 output/
+**/output/
 
 !.env.example
+!**/.env.example
